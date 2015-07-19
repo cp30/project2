@@ -1,2 +1,4 @@
 some text
 some more text
+a third line of text.
+and a fourth!
